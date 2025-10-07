@@ -1,4 +1,4 @@
-import { TanstackLink } from '@wowjob/ui-tanstack'
+import { TanstackLink } from '../../atom/link'
 import { Flex, Text } from '@wowjob/ui'
 import type { TStyle } from '@wowjob/css'
 

@@ -1,5 +1,3 @@
-import { lazy, Suspense } from 'react'
-
 import {
   Button,
   Flex,
@@ -44,7 +42,7 @@ const getValueMap = ({ list, data }: TJSONFormStructure) => {
   return map
 }
 
-const { fieldContext, formContext, useFieldContext } = createFormHookContexts()
+const { fieldContext, formContext } = createFormHookContexts()
 
 const { useAppForm } = createFormHook({
   fieldContext,
@@ -65,7 +63,6 @@ export const JSONForm = ({
   formStructure,
   valueMap,
   back,
-  height,
   submit,
   showActionButtonList,
   softSave,
@@ -120,7 +117,7 @@ export const JSONForm = ({
         }
       },
     },
-    onSubmit: async ({ value, formApi }) => {
+    onSubmit: async ({ value }) => {
       if (typeof submit === 'function') {
         const result = await submit(value)
 
@@ -193,8 +190,7 @@ export const JSONForm = ({
                       // biome-ignore lint: lint/correctness/noChildrenProp
                       children={(field) => {
                         const fieldData = fs.data[inputName]
-                        const { isDirty, isBlurred, isPristine } =
-                          field.state.meta
+                        const { isDirty, isBlurred } = field.state.meta
                         const errorList = (field.state.meta.errors ||
                           []) as ZodIssue[]
 

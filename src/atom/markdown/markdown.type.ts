@@ -1,7 +1,7 @@
 // textarea.type.ts
 import type { Updater } from '@tanstack/react-form'
 import type { TStyle } from '@wowjob/css'
-import type { Ref, TextareaHTMLAttributes } from 'react'
+import type { TextareaHTMLAttributes } from 'react'
 
 export type TMarkdown = {
   name: string

@@ -46,6 +46,7 @@
   },
   "dependencies": {
     "@tanstack/react-form": "^1.12.1",
+    "@tanstack/react-router": "^1.132.47",
     "@toast-ui/react-editor": "^3.2.3",
     "@wowjob/css": "latest",
     "@wowjob/ui": "latest",
