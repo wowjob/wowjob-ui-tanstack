@@ -1,0 +1,6 @@
+/* .wowjob-ui-json-form */
+.wowjob-ui-json-form {
+  display: flex;
+  flex-direction: column;
+  gap: 1rem;
+}
