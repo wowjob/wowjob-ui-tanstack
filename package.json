@@ -59,6 +59,7 @@
     "@semantic-release/git": "^10.0.1",
     "@types/react": "^19.2.2",
     "@types/react-dom": "^19.2.1",
+    "dotenv-cli": "^10.0.0",
     "eslint": "^9.25.0",
     "react": "^0.0.0-experimental-3025aa39-20251007",
     "react-dom": "^0.0.0-experimental-3025aa39-20251007",
