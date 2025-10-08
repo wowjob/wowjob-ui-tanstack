@@ -1,6 +1,6 @@
 {
   "name": "@wowjob/ui-tanstack",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "description": "A collection of TanStack Form components and other advanced UI elements for the WowJob.ai ecosystem.",
   "author": "Marian Zburlea (https://github.com/marianzburlea)",
   "license": "MIT",
