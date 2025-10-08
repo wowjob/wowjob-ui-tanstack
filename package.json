@@ -49,7 +49,7 @@
     "@tanstack/react-router": "^1.132.47",
     "@toast-ui/react-editor": "^3.2.3",
     "@wowjob/css": "latest",
-    "@wowjob/ui": "latest",
+    "@wowjob/ui": "^0.0.5",
     "rehype-react": "^8.0.0",
     "rehype-sanitize": "^6.0.0"
   },
@@ -63,8 +63,8 @@
     "@types/react": "^19.2.2",
     "@types/react-dom": "^19.2.1",
     "eslint": "^9.25.0",
-    "react": "19.2.0",
-    "react-dom": "19.2.0",
+    "react": "^0.0.0-experimental-3025aa39-20251007",
+    "react-dom": "^0.0.0-experimental-3025aa39-20251007",
     "semantic-release": "^24.2.9",
     "tsup": "^8.5.0",
     "typescript": "^5.8.2"
