@@ -1,3 +1,10 @@
+## [0.0.4](https://github.com/wowjob/wowjob-ui-tanstack/compare/v0.0.3...v0.0.4) (2025-10-08)
+
+
+### Bug Fixes
+
+* tr4 ([b832136](https://github.com/wowjob/wowjob-ui-tanstack/commit/b8321361ddb6c60c245a631b51cebba064308452))
+
 ## [0.0.3](https://github.com/wowjob/wowjob-ui-tanstack/compare/v0.0.2...v0.0.3) (2025-10-08)
 
 
