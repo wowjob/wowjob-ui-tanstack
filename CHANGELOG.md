@@ -1,3 +1,10 @@
+## [0.0.6](https://github.com/wowjob/wowjob-ui-tanstack/compare/v0.0.5...v0.0.6) (2025-10-08)
+
+
+### Bug Fixes
+
+* force wowjob ui to 008 ([11c2afb](https://github.com/wowjob/wowjob-ui-tanstack/commit/11c2afbdd5639f6e8d8a56bdb8e065d44e72a032))
+
 ## [0.0.5](https://github.com/wowjob/wowjob-ui-tanstack/compare/v0.0.4...v0.0.5) (2025-10-08)
 
 
