@@ -46,7 +46,7 @@
     "@tanstack/react-router": "^1.132.47",
     "@toast-ui/react-editor": "^3.2.3",
     "@wowjob/css": "latest",
-    "@wowjob/ui": "^0.0.5",
+    "@wowjob/ui": "latest",
     "rehype-react": "^8.0.0",
     "rehype-sanitize": "^6.0.0"
   },
