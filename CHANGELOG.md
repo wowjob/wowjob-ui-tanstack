@@ -1,3 +1,10 @@
+## [0.0.10](https://github.com/wowjob/wowjob-ui-tanstack/compare/v0.0.9...v0.0.10) (2025-10-08)
+
+
+### Bug Fixes
+
+* no ai suggestion, my own approach ([f32562f](https://github.com/wowjob/wowjob-ui-tanstack/commit/f32562fc1802b6e2c236fa9d59ce8cca7c3cbc11))
+
 ## [0.0.9](https://github.com/wowjob/wowjob-ui-tanstack/compare/v0.0.8...v0.0.9) (2025-10-08)
 
 
