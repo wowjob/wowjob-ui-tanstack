@@ -1,3 +1,10 @@
+## [0.0.3](https://github.com/wowjob/wowjob-ui-tanstack/compare/v0.0.2...v0.0.3) (2025-10-08)
+
+
+### Bug Fixes
+
+* node funcitons breaking client ui ([f50a9a8](https://github.com/wowjob/wowjob-ui-tanstack/commit/f50a9a8af0afc5c6173beb6208029c5da6e30a1c))
+
 ## [0.0.2](https://github.com/wowjob/wowjob-ui-tanstack/compare/v0.0.1...v0.0.2) (2025-10-07)
 
 
